@@ -39,7 +39,7 @@ Hello, I am a master's student at the Research Center for Social Computing and I
 - <span class="conference-tag">NeurIPS 2025</span> Weixiang Zhao\*, **Xingyu Sui**\*, Yulin Hu\*, Jiahe Guo, Haixiao Liu, Biye Li, Yanyan Zhao, Bing Qin, Ting Liu. *Teaching Language Models to Evolve with Users: Dynamic Profile Modeling for Personalized Alignment.* [[paper]](https://arxiv.org/pdf/2505.15456)
 
 ### Safety Alignment
-- <span class="conference-tag">ACL 2025 (Main)</span> Weixiang Zhao\*, Yulin Hu\*, Yang Deng, Jiahe Guo, **Xingyu Sui, Xinyang Han, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs.* [[paper]](https://arxiv.org/pdf/2502.20968) [[repo]](https://github.com/yulinlp/SaRFT)
+- <span class="conference-tag">ACL 2025 (Main)</span> Weixiang Zhao\*, Yulin Hu\*, Yang Deng, Jiahe Guo, **Xingyu Sui**, Xinyang Han, An Zhang, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *Beware of Your Po! Measuring and Mitigating AI Safety Risks in Role-Play Fine-Tuning of LLMs.* [[paper]](https://arxiv.org/pdf/2502.20968) [[repo]](https://github.com/yulinlp/SaRFT)
 
 - 🏆 <span class="conference-tag">EMNLP 2025 </span><span style="color:red">(Main, Oral)</span>  Weixiang Zhao\*, Jiahe Guo\*, Yulin Hu, Yang Deng, An Zhang, **Xingyu Sui**, Xinyang Han, Yanyan Zhao, Bing Qin, Tat-Seng Chua, Ting Liu. *AdaSteer: Your Aligned LLM is Inherently an Adaptive Jailbreak Defender.* [[paper]](https://arxiv.org/abs/2504.09466) [[repo]](https://github.com/MuyuenLP/AdaSteer)
 
